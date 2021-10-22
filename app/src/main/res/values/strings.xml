@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SPaint</string>
+    <string name="_851_x_315_n_fb_cover">851 x 315 \n FB Cover</string>
+    <string name="screen">Screen</string>
+    <string name="_2048_x_1536_n_4_3">400 x 300 \n 4 : 3</string>
+    <string name="_1200_x_800_n3_2">400 x 267 \n 3 : 2</string>
+    <string name="_1200_x_800_n_3_2">1200 x 800 \n 3 : 2</string>
+    <string name="_1920_x_1080_n_16_9">400 x 225 \n 16 : 9</string>
+    <string name="_1680_x_1050_n_16_10">225 x 400 \n 9 : 16</string>
+    <string name="_1080_x_2131_n_custom">Custom</string>
+    <string name="_1536_x_1536_n_1_1">400 x 400 \n 1 : 1</string>
+    <string name="eraser_size">Eraser size</string>
+    <string name="brush_size">Brush size</string>
+    <string name="clear_all">Clear all</string>
+    <string name="erager">Erager</string>
+    <string name="stroke">Stroke</string>
+    <string name="coloor">Color</string>
+    <string name="save">Save</string>
+    <string name="redo">Redo</string>
+    <string name="undo">Undo</string>
+    <string name="draw_shapes">Draw shapes</string>
+    <string name="background">Background</string>
+    <string name="choose_canvas">Choose Canvas</string>
+    <string name="color">Color</string>
+    <string name="choose_background_color">Choose background color</string>
+    <string name="rectangle">Rectangle</string>
+</resources>
